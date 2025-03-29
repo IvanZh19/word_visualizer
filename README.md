@@ -7,6 +7,6 @@ Just run `word.py`, enter your starting and ending words, and start guessing!
 
 I used it to get an optimal path between NEXT and HEIR! Spoilers:
 
-![graph of my attempt](images\next_heir_graph.png)
+![graph of my attempt](images/next_heir_graph.png)
 
-![next, neat, heat, hear, heir](images\next_heir.png)
+![next, neat, heat, hear, heir](images/next_heir.png)
